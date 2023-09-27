@@ -1,0 +1,32 @@
+.parentdiv{
+    border: 1px solid gray;
+    padding: 10px;
+    background-color: gray;
+    height: 500px;
+    box-shadow: 10px 10px 10px aquamarine;
+    margin: 20px;
+}
+    
+.div1{
+    border: 1px solid black;
+    padding: 10px;
+    background: black;
+    color: rgb(6, 202, 52);
+    height: 95%;
+    background-image: linear-gradient(to bottom right, red,white, cyan);
+    font-weight: bolder;
+}
+
+#img1{
+    position: relative;
+    left: 220px;
+    bottom: 230px;
+}
+#id1{
+    font-size: x-large;
+    padding: 10px;
+}
+#id3,#id4,#id5,#id6{
+    font-size: larger;
+    padding: 10px;
+}
